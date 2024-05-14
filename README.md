@@ -3,4 +3,4 @@
 # UWP Canadian Caucus
  Website for the UWP Canadian Caucus
 
- Written in pure HTML and uses bootstrap 5 as the css framework.
+ Written in pure HTML and Javascript, uses Bootstrap 5 as the CSS framework.
